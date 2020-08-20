@@ -1,0 +1,7 @@
+{
+  "name": "farmerApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
