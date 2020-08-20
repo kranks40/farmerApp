@@ -1,0 +1,9 @@
+Steps taken
+
+-Setup or create the app using: ionic start (app name) blank --type=react --capacitor
+-Do an App clean up
+-Setup Firebase
+-Setup Ionic React Router
+-Build Login Page
+
+
