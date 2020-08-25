@@ -1,22 +1,21 @@
 
 .login {
  margin-bottom: 10px;
- padding: 30px;
+ padding: 10px;
+ margin-left: 45px;
 }
 
 .login__logo {
-  width: 70%;
-  object-fit: contain;
-  flex-direction: column;
- 
+  width: 70%; 
 }
 
 .login__container {
   width: 300px;
   display: flex;
   flex-direction: column;
-  padding: 20px;
+  padding: 10px;
   border: 1px solid darkgray;
+  margin-left: 30px;
 }
 
 .login__container > form > h5 {

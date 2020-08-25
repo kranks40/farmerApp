@@ -46,6 +46,7 @@ function Login() {
             <img className='login__logo' 
             src= 'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcScJgDNxKxF5MgcdWieiACt-mgVY5sQ5v24AFYVWHNU18-Yp0hr-Oa--rH-UWDdV9sd-zZgWXRcQiYFPnESiJeVyICGUIOW0zSYaA&usqp=CAU&ec=45690273'alt=''/>
           </Link>
+          </div>
 
           <div className='login__container'>
               
@@ -65,7 +66,7 @@ function Login() {
               </p>
               <button onClick={register} className='login__createButton'>Create your Account</button>
           </div>
-        </div>
+        
        
       </IonContent>
     </IonPage>
